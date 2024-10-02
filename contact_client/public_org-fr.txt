@@ -1,0 +1,8 @@
+Avec tous ses outils, Solar Insights pourrait apporter plusieurs bénéfices à une organisation oeuvrant de près avec le secteur public comme $org_name$:
+
+- Encourager l'économie locale par l'aménagement de nouvelles installations solaires
+
+- Sensibiliser le public aux différentes sources d'énergies renouvelables
+
+- Accélérer la transition de %org_name% et de la région vers la carboneutralité
+
