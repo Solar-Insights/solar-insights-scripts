@@ -2,7 +2,8 @@ Avec tous ses outils, Solar Insights pourrait apporter plusieurs bénéfices à 
 
 - Présenter des ressources visuelles et statistiques aux processus de soumission et de vente de panneaux solaires
 
-- Exporter les données et images de l'installation générée sous différents formats pour réutilisation interne
+- Exporter les données et images de l'installation sous différents formats pour réutilisation interne
 
 - Intégrer une partie des services de Solar Insights a un produit interne
+
 

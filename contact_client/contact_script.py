@@ -1,5 +1,7 @@
 from argparse import ArgumentParser, Namespace
 from typing import Literal
+import webbrowser
+import urllib.parse
 
 
 LanguageChoices = Literal["fr", "en"]
@@ -40,14 +42,21 @@ def get_parsed_args() -> Namespace:
     return parser.parse_args()
 
 def get_full_file_name(file_descriptor: str) -> str:
+    SUB_DIR = "./contact_client"
+    TEXT_FILE_EXTENSION = "txt"
+
     return f"{SUB_DIR}/{file_descriptor}-{LANGUAGE}.{TEXT_FILE_EXTENSION}"
 
+def open_mailto(recipient: str, subject: str, body: str) -> None:
+    encoded_body = urllib.parse.quote(body)
+    webbrowser.open(f"mailto:{recipient}?subject={subject}&body={encoded_body}")
 
-SUB_DIR = "./contact_client"
+
 ARGS: Namespace = get_parsed_args()
 LANGUAGE: LanguageChoices = ARGS.language
 ORG_TYPE: OrganizationType = ARGS.org_type
-TEXT_FILE_EXTENSION = "txt"
+ORG_NAME = input("organization name: ")
+CONTACT_EMAIL = input("contact email: ")
 FILES = {
     "title": "title",
     "introduction": "introduction",
@@ -57,17 +66,16 @@ FILES = {
     "software": "sofware_org"
 }
 
-title = ""
-communication = ""
-
 title_file = get_full_file_name(FILES["title"])
 introduction_file = get_full_file_name(FILES["introduction"])
 org_file = get_full_file_name(FILES[ORG_TYPE])
 conclusion_file = get_full_file_name(FILES["conclusion"])
 
+title = ""
 with open(title_file, "r", encoding="utf-8") as f:
     title += f.read()
 
+communication = ""
 with open(introduction_file, "r", encoding="utf-8") as f:
     communication += f.read()
 
@@ -77,15 +85,6 @@ with open(org_file, "r", encoding="utf-8") as f:
 with open(conclusion_file, "r", encoding="utf-8") as f:
     communication += f.read()
 
-org_name = input("organization name: ")
+communication = communication.replace("$org_name$", ORG_NAME)
 
-communication = communication.replace("$org_name$", org_name)
-
-
-
-print(title)
-
-print(communication)
-
-
-
+open_mailto(CONTACT_EMAIL, title, communication)
