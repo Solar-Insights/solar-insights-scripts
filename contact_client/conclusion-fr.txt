@@ -1,5 +1,5 @@
 Présentement, l'application est uniquement accessible à l'adresse suivante: https://solarinsights.ca. Je vous invite à la visiter pour obtenir un aperçu visuel de ce que vous pourriez réaliser.
 
-Aussi, si vous pensez que $org_name$ pourrait bénéficier de Solar Insights d'une quelconque façon, ou que vous êtes intéressé à essayer l'application, n'hésitez pas à m'écrire pour que l'on puisse en discuter.
+Aussi, si vous pensez que $org_name$ pourrait bénéficier de Solar Insights d'une quelconque façon, ou que vous êtes intéressé à essayer l'application, écrivez-moi pour que l'on puisse en discuter.
 
 Sur ce, je vous souhaite de passer un agréable début d'automne, et au plaisir de discuter!
