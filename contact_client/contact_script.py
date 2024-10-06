@@ -86,5 +86,6 @@ with open(conclusion_file, "r", encoding="utf-8") as f:
     communication += f.read()
 
 communication = communication.replace("$org_name$", ORG_NAME)
+communication = communication.replace("$lang$", LANGUAGE)
 
 open_mailto(CONTACT_EMAIL, title, communication)
