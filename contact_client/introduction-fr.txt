@@ -1,16 +1,14 @@
-Bonjour, j'espère que vous passez une agréable journée! Puisque votre temps est précieux, je vais tenter de rester le plus concis possible.
+Bonjour, j'espère que vous passez une agréable journée!
 
-Tout d'abord, je me présente: Mathis Beaudoin. Je suis le fondateur de Solar Insights, une application visant à accélérer l'adoption de l'énergie solaire pour bâtiments résidentiels et commerciaux. 
+Je me présente: <b>Mathis Beaudoin</b>, fondateur de <b><i>Solar Insights</i></b>: une application visant à accélérer l'adoption de l'énergie solaire pour les bâtiments résidentiels et commerciaux. Je vous écris pour présenter notre outil, mais également pour démontrer la <b>plus-value</b> qu'il peut apporter à votre domaine d'affaire.
 
-J'aimerais vous présenter Solar Insights pour vous informer de son existence, mais également pour démontrer que l'outil peut apporter une plus-value à votre domaine d'affaire.
+<i>« Accélérer l'adoption de l'énergie solaire »</i> ? En fait, Solar Insights permet de générer en quelques secondes une installation de panneaux solaires pour n'importe quel bâtiment. Ensuite, 3 fonctionnalités principales sont disponibles:
 
+1. <b>Personnalisation et optimisation</b> de l'installation (nombre de panneaux, couverture énergétique, etc.)
 
-« Accélérer l'adoption de l'énergie solaire », c'est vaste. En fait, Solar Insights permet à un utilisateur de générer en quelques secondes une installation de panneaux solaires, simplement en rentrant une adresse. Ensuite, 3 fonctionnalités principales sont accessibles:
+2. Évaluation de la <b>viabilité économique</b> des panneaux solaires
 
-1. Personnalisation et optimisation de l'installation (quantité de panneaux, maximisation de la couverture en énergie, etc.)
+3. <b>Visualisation</b> de l'installation avec ses statistiques solaires et économiques
 
-2. Évaluation de la viabilité économique des panneaux solaires
-
-3. Visualisation de l'installation et de ses statistiques solaires et économiques
 
 

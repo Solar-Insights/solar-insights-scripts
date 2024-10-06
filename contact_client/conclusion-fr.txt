@@ -1,7 +1,8 @@
-Présentement, l'application est uniquement accessible à l'adresse suivante: https://solarinsights.ca. Je vous invite à la visiter pour obtenir un aperçu visuel de ce que vous pourriez réaliser.
+L'application est <b>présentement accessible</b> à l'adresse suivante: https://solarinsights.ca. Je vous invite à la découvrir pour obtenir un aperçu de ce qui est offert.
 
-Aussi, si vous pensez que $org_name$ pourrait bénéficier de Solar Insights d'une quelconque façon, ou que vous êtes intéressé à essayer l'application, écrivez-moi pour que l'on puisse en discuter.
+Si vous pensez que $org_name$ pourrait bénéficier de Solar Insights, ou si vous souhaitez essayer l'application, <b>n'hésitez pas</b> à me contacter.
 
-Sur ce, passez un agréable début d'automne, et au plaisir de discuter!
+Passez un agréable début d'automne, et au plaisir de discuter! (je vous laisse sur un aperçu de l'application)
+
 
 

@@ -1,9 +1,10 @@
-Avec tous ses outils, Solar Insights pourrait apporter plusieurs bénéfices à une organisation qui oeuvre dans le secteur de l'énergie comme $org_name$:
+Avec tous ses outils, Solar Insights apporte plusieurs bénéfices à une organisation du secteur de l'énergie comme $org_name$:
 
-- Obtenir rapidement une soumission bonifiée pour une installation de panneaux
+- Obtenir rapidement une <b>soumission bonifiée</b> pour une installation de panneaux
 
-- Présenter au client des informations visuelles et pertinentes tout au long du processus de vente
+- Présenter au client des <b>informations visuelles</b> et pertinentes durant le processus de vente
 
-- Enregistrer les détails de l'installation pour réutilisation interne
+- Enregistrer les détails de l'installation pour une <b>réutilisation interne</b>
+
 
 
