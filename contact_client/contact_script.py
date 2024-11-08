@@ -6,7 +6,7 @@ import urllib.parse
 
 LanguageChoices = Literal["fr", "en"]
 OrganizationType = Literal["energy", "public", "software"]
-
+ 
 def add_language_arg(parser: ArgumentParser) -> None:
     parser.add_argument(
         "-l", "--lang", 

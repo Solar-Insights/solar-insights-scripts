@@ -4,6 +4,6 @@ Si vous pensez que $org_name$ pourrait bénéficier de Solar Insights, ou si vou
 
 Passez un agréable début d'automne, et au plaisir de discuter! (je vous laisse sur un aperçu de l'application)
 
-<img src="https://solarinsights.ca/images/hotel_de_ville_$lang$.webp"/>
+<img src="https://solarinsights.ca/images/hotel_de_ville_$lang$.webp" style="width: 100%;"/>
 
 
